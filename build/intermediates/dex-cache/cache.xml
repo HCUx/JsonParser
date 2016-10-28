@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Programming\Project\AndroidStudioProjects\JsonParser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="244b0404a7a033a041b4d7038b3930af42bea173">
+        <dex dex="D:\Programming\Project\AndroidStudioProjects\JsonParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_600c873a7e453ae97224569f6b9c6bc9d419c417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programming\Project\AndroidStudioProjects\JsonParser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fefd2eae521aa8efddf1e88b4e9748eb17b11afe">
+        <dex dex="D:\Programming\Project\AndroidStudioProjects\JsonParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1d04160c71eb631838224b480fcf8d3c97af43be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programming\Files\Android-SDK\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Programming\Project\AndroidStudioProjects\JsonParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_c64853486c8acf1a7caa2161ef3acdd9a30a3269\classes.dex" />
+    </item>
+
+</items>

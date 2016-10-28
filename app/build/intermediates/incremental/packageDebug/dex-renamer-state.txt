@@ -1,0 +1,7 @@
+#Fri Oct 28 03:20:11 EEST 2016
+base.0=D\:\\Programming\\Project\\AndroidStudioProjects\\JsonParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1d04160c71eb631838224b480fcf8d3c97af43be
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Programming\\Project\\AndroidStudioProjects\\JsonParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_600c873a7e453ae97224569f6b9c6bc9d419c417\\classes.dex
+base.1=D\:\\Programming\\Project\\AndroidStudioProjects\\JsonParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_600c873a7e453ae97224569f6b9c6bc9d419c417
+file.0=D\:\\Programming\\Project\\AndroidStudioProjects\\JsonParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1d04160c71eb631838224b480fcf8d3c97af43be\\classes.dex

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="isim">Kişi Seçiniz</string>
+ 
+    <string-array name="kisi_array">
+        <item>Kişi Seçiniz</item>
+    	<item>Taha Kırca</item>	
+    	<item>Aycan Ayhan</item>										
+    </string-array>
+ 	
+</resources>
